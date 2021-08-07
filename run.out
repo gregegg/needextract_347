@@ -1,0 +1,62 @@
+Removing everything under 'build'...
+Running Sphinx v4.0.2
+making output directory... done
+building [mo]: targets for 0 po files that are out of date
+building [html]: targets for 3 source files that are out of date
+updating environment: [new config] 3 added, 0 changed, 0 removed
+reading sources... [ 33%] index
+reading sources... [ 66%] srd_main
+reading sources... [100%] um_main
+
+Copying static files for sphinx-needs datatables support...[redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/sphinx_needs_collapse.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/datatables.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/datatables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/datatables_loader.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/JSZip-2.5.0/jszip.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Responsive-2.2.1/js/dataTables.responsive.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Responsive-2.2.1/css/responsive.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/js/jquery.dataTables.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/css/jquery.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/images/sort_both.png [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/images/sort_asc.png [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/images/sort_desc_disabled.png [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/images/sort_asc_disabled.png [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/images/sort_desc.png [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/FixedColumns-3.2.4/js/dataTables.fixedColumns.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/FixedColumns-3.2.4/css/fixedColumns.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/pdfmake-0.1.32/pdfmake.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/pdfmake-0.1.32/vfs_fonts.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/FixedHeader-3.1.3/js/dataTables.fixedHeader.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/FixedHeader-3.1.3/css/fixedHeader.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Scroller-1.4.4/js/dataTables.scroller.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Scroller-1.4.4/css/scroller.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/ColReorder-1.4.1/js/dataTables.colReorder.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/ColReorder-1.4.1/css/colReorder.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/buttons.html5.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/buttons.print.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/buttons.colVis.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/buttons.flash.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/buttons.html5.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/dataTables.buttons.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/css/buttons.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/css/common.scss [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/css/mixins.scss [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/swf/flashExport.swf
+Copying static files for sphinx-needs custom style support...[ 25%] common.css
+Copying static files for sphinx-needs custom style support...[ 50%] [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/css/modern/styles.css
+Copying static files for sphinx-needs custom style support...[ 75%] [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/css/modern/modern.css
+Copying static files for sphinx-needs custom style support...[100%] [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/css/modern/layouts.css
+
+looking for now-outdated files... none found
+pickling environment... done
+checking consistency... done
+preparing documents... done
+writing output... [ 33%] index
+writing output... [ 66%] srd_main
+writing output... [100%] um_main
+
+generating indices... genindex done
+writing additional pages... search done
+copying images... [ 50%] [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/images/feather_svg/arrow-down-circle.svg
+copying images... [100%] [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/images/feather_svg/arrow-right-circle.svg
+
+copying static files... done
+copying extra files... done
+dumping search index in English (code: en)... done
+dumping object inventory... done
+build succeeded.
+
+The HTML pages are in build/html.
+
+Checking sphinx-needs warnings
+Running Sphinx v4.0.2
+making output directory... done
+loading pickled environment... done
+building [mo]: targets for 0 po files that are out of date
+building [latex]: all documents
+updating environment: 0 added, 0 changed, 0 removed
+Copying static files for sphinx-needs datatables support...[redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/sphinx_needs_collapse.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/datatables.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/datatables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/datatables_loader.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/JSZip-2.5.0/jszip.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Responsive-2.2.1/js/dataTables.responsive.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Responsive-2.2.1/css/responsive.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/js/jquery.dataTables.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/css/jquery.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/images/sort_both.png [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/images/sort_asc.png [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/images/sort_desc_disabled.png [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/images/sort_asc_disabled.png [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/DataTables-1.10.16/images/sort_desc.png [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/FixedColumns-3.2.4/js/dataTables.fixedColumns.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/FixedColumns-3.2.4/css/fixedColumns.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/pdfmake-0.1.32/pdfmake.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/pdfmake-0.1.32/vfs_fonts.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/FixedHeader-3.1.3/js/dataTables.fixedHeader.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/FixedHeader-3.1.3/css/fixedHeader.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Scroller-1.4.4/js/dataTables.scroller.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Scroller-1.4.4/css/scroller.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/ColReorder-1.4.1/js/dataTables.colReorder.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/ColReorder-1.4.1/css/colReorder.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/buttons.html5.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/buttons.print.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/buttons.colVis.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/buttons.flash.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/buttons.html5.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/js/dataTables.buttons.min.js [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/css/buttons.dataTables.min.css [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/css/common.scss [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/css/mixins.scss [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/libs/html/Buttons-1.5.1/swf/flashExport.swf
+Copying static files for sphinx-needs custom style support...[ 25%] common.css
+Copying static files for sphinx-needs custom style support...[ 50%] [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/css/modern/styles.css
+Copying static files for sphinx-needs custom style support...[ 75%] [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/css/modern/modern.css
+Copying static files for sphinx-needs custom style support...[100%] [redacted]lib/python3.7/site-packages/sphinxcontrib/needs/css/modern/layouts.css
+
+looking for now-outdated files... none found
+processing SRD.tex... srd_main
+resolving references...
+done
+writing... done
+processing UM.tex... um_main
+resolving references...
+failed
+
+Extension error (sphinxcontrib.needs.directives.needextract):
+Handler <function process_needextract at 0x7fac55ba2710> for event 'doctree-resolved' threw an exception (exception: ('srd_main', None))
+make: *** [latex] Error 2
